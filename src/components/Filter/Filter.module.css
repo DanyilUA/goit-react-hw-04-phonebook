@@ -1,0 +1,10 @@
+.label {
+    display: flex;
+    flex-direction: column;
+}
+
+.input {
+    width: 200px;
+    border: 1px solid rgb(32, 31, 31);
+    border-color: rgb(28, 27, 26);
+}

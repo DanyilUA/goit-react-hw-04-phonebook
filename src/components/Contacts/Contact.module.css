@@ -1,0 +1,23 @@
+.contact__list {
+    display: flex;
+    flex-direction: column;
+}
+.contact {
+    margin-top: 20px;
+    border-color: green;
+}
+
+.button {
+    border: solid 1px rgb(115, 115, 218);
+    background-color: #ffff;
+    border-radius: 4px;
+    width: 70px;
+    height: 20px;
+}
+
+.button:hover {
+    background-color: rgb(115, 115, 218);
+    color: #ffff;
+    border-radius: 4px;
+    transition: 200ms;
+}
